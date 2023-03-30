@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\ndpOdev1\ndpOdev1\bin\Debug\ndpOdev1.exe.config
+C:\Users\ACER\source\repos\ndpOdev1\ndpOdev1\bin\Debug\ndpOdev1.exe
+C:\Users\ACER\source\repos\ndpOdev1\ndpOdev1\bin\Debug\ndpOdev1.pdb
+C:\Users\ACER\source\repos\ndpOdev1\ndpOdev1\obj\Debug\ndpOdev1.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\ndpOdev1\ndpOdev1\obj\Debug\ndpOdev1.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\ndpOdev1\ndpOdev1\obj\Debug\ndpOdev1.exe
+C:\Users\ACER\source\repos\ndpOdev1\ndpOdev1\obj\Debug\ndpOdev1.pdb
+C:\Users\ACER\Desktop\ndpOdev1\ndpOdev1\bin\Debug\ndpOdev1.exe.config
+C:\Users\ACER\Desktop\ndpOdev1\ndpOdev1\bin\Debug\ndpOdev1.exe
+C:\Users\ACER\Desktop\ndpOdev1\ndpOdev1\bin\Debug\ndpOdev1.pdb
+C:\Users\ACER\Desktop\ndpOdev1\ndpOdev1\obj\Debug\ndpOdev1.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\ndpOdev1\ndpOdev1\obj\Debug\ndpOdev1.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\ndpOdev1\ndpOdev1\obj\Debug\ndpOdev1.exe
+C:\Users\ACER\Desktop\ndpOdev1\ndpOdev1\obj\Debug\ndpOdev1.pdb
